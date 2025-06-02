@@ -53,6 +53,13 @@ Move the "MyLab" directory to the "Documents" folder.
 
 ![image](https://github.com/user-attachments/assets/bb9931e7-b895-4374-9ccb-6a01804c1c15)
 
+## BATCH FILES OUTPUT
+
+![image](https://github.com/user-attachments/assets/8bc57185-fa57-41b0-87f6-2d77527f4288)
+![image](https://github.com/user-attachments/assets/30b0c2aa-0afb-4770-8922-43c25e7a33aa)
+![image](https://github.com/user-attachments/assets/fcf4f9f0-d021-42ec-b968-eef8d2d67a57)
+![image](https://github.com/user-attachments/assets/b1b9979e-8ab4-4ac0-8924-a55362124bba)
+![image](https://github.com/user-attachments/assets/f16ea841-1c7f-4c81-a576-4d5f4156a456)
 
 # RESULT:
 The commands are executed successfully.
